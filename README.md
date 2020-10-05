@@ -2,7 +2,7 @@
 
 ### Google Playstore - https://play.google.com/store/apps/details?id=net.sharesplit.android.android
 
-Share Split app enables quick and easy file transfer without internet usage. Share Split app created by Prateek Sawhney is a better and easy to use sharing app with fast and stable transfer speeds. Share any kind of files including apps, games, obb files, photos, videos in a fast and efficient way. Share Split makes it easy to send files and apps to other devices in local network. Enjoy 100% seamless transfer of files and apps across various devices!
+Share Split app enables quick & easy file transfer without internet usage. Share Split app created by Prateek Sawhney is a better and easy to use sharing app with fast and stable transfer speeds. Share any kind of files including apps, games, obb files, photos, videos in a fast and efficient way. Share Split makes it easy to send files and apps to other devices in local network. Enjoy 100% seamless transfer of files and apps across various devices!
 
 
 ![sharesplit](https://user-images.githubusercontent.com/34116562/89002206-22856780-d31a-11ea-8fec-e0ae058be96a.png)

@@ -30,7 +30,7 @@ Share Split - Made in India          |  100% seamless transfer | Share Apps     
 
 ⭐ Option to become hidden in the local network.
 
-⭐ Share history shows all the transfers performed including apps and files.
+⭐ Share history shows all the transfers performed including applications and files.
 
 ⭐ Indian Sharing Application - Made with ❤ in India 
 
